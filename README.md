@@ -1,5 +1,4 @@
 # Learning Solidity
-The companion to the Youtube tutorials
 
 ### Videos
 
